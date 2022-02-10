@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aakash-kumar-gorai
-- 👀 I’m interested in Web Development and Sytem Designs.
-- 🌱 I’m currently learning C and C++.
+- 👀 I’m interested in Web Development and DSA.
 - 📫 How to reach me @aakashkumar546@gmail.com
 
 <!---
